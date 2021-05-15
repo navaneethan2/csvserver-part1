@@ -1,10 +1,14 @@
 # csvserver-part1
 
 Steps for anyone can setup csvserver in their local.
-Prerequesites
-1.Docker has to be installed and check like `docker version` .
+
+**Prerequesites:**
+
+1.Docker has to be installed and check like `docker version`
 2.Bash environment should be available like `$ bash`.
-Steps:
+
+**Steps:**
+
 1. Clone this repo and run the Dockerfile to create your own image.
 2. run Docker command to create a container mentioned in `part-1-cmd`
 3. Ensure the bash/shell script inplace `gencsv.sh`
